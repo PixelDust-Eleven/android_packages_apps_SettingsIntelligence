@@ -16,7 +16,7 @@
 
 <resources>
 
-    <color name="search_panel_background">#FF202125</color>
-    <color name="search_panel">#FF303135</color>
+    <color name="search_panel_background">@*android:color/material_grey_800</color>
+    <color name="search_panel">@*android:color/material_grey_900</color>
 
 </resources>
